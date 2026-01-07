@@ -18,3 +18,7 @@ ng serve --open
 - Login both, open lobby, invite one another
 - Accept invite -> a game created notification
 - Use the board to send moves (prototype minimal)
+
+## Demo:
+check demo.gif
+![Demo GIF](demo.gif)
