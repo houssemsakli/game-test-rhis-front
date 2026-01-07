@@ -1,0 +1,8 @@
+<div>
+    <h3>Lobby - Joueurs en ligne</h3>
+    <ul>
+        <li *ngFor="let p of players">
+            {{p}} <button (click)="invite(p)">Inviter</button>
+        </li>
+    </ul>
+</div>
